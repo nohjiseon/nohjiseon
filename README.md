@@ -9,9 +9,7 @@
 <a href="https://velog.io/@nojiseon16"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ## 📞 Contact
-<a href="mailto:nojiseon16@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a></br>
-<span>nojiseon16@gmail.com</span>
-
+💌 nojiseon16@gmail.com
 
 <!--
 깃허브 통계
