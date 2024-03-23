@@ -24,7 +24,7 @@
 <br/>
 
 ## 📒 blog
-<a href="https://velog.io/@nojiseon16">
+<a href="https://velog.io/@nojiseon16" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
 </a>
 
