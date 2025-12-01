@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=5000&pause=3&color=6994CDEE&multiline=true&repeat=true&width=1000&height=70&lines=Welcome+to+jiseon's+GitHub!👋)](https://git.io/typing-svg)
 
-<a href="https://github.com/nohjiseon"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nohjiseon&layout=compact&theme=nord&hide_border=true" /></a> 
-<a href="https://github.com/nohjiseon"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=nohjiseon&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<!-- <a href="https://github.com/nohjiseon"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nohjiseon&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/nohjiseon"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=nohjiseon&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a> -->
 
 <br/><br/>
 ## 📘 stack
